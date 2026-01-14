@@ -87,3 +87,4 @@ Perfect for **hackathons, ML portfolios, or learning projects**.
 ```bash
 git clone https://github.com/YOUR-USERNAME/ML-Student-Score-Prediction.git
 cd ML-Student-Score-Prediction
+
